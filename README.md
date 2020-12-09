@@ -23,7 +23,7 @@ Mongodb class for python, the class implement the most usefull methods in mongo 
 1. Installl MongoDB on your local machine or MongoDB Atlas
 
 - Donwload Mongo [Community Server ](https://www.mongodb.com/try/download/community)
-- Create and acount in [Mongo Atlas](https://www.mongodb.com/cloud/atlas)
+- Create an account in [Mongo Atlas](https://www.mongodb.com/cloud/atlas)
 
 2. Clone this repo
 
