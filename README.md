@@ -23,7 +23,7 @@ Mongodb class for python, the class implement the most usefull methods in mongo 
 ```python
 from ClassMongo import Database_mongodb
 URL = "---url mongodb or mongoatlas---"
-db_name= "mydb" # your database, if doesn't exits then wil be created
+db_name= "mydb" # your database, if doesn't exist then will be created
 mydb = Database_mongodb(URL, db_name)
 ...
 ...
