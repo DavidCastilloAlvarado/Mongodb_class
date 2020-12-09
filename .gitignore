@@ -1,0 +1,14 @@
+initdb
+.vscode
+.vitual_documents
+.ipynb**
+__pycache__
+**.ini
+**.7z
+**.csv
+main.py
+__pycache__
+bigdata**
+casobigdata**
+tranfcorrd.py
+**.txt
